@@ -1,0 +1,15 @@
+{
+  "name": "library-site",
+  "version": "0.0.1",
+  "description": "My 1st web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/tiger9810/library-site.git)"
+  },
+  "author": "T.Moriuchi",
+  "license": "ISC"
+}
